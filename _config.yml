@@ -2,7 +2,7 @@
 
 title: . . . to lean into)Nowhere
 email: ojk@berkeley.edu
-description: poetri > # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
