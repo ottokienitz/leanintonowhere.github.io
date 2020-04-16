@@ -1,5 +1,6 @@
 body {
-  background-color: lightblue;
-  margin-left: 250px;
-  font-family: Georgia,serif;
+  background-color:lightblue;
+  margin-left:250px;
+  font-family:Georgia,serif;
+  opacity:0.50;
 }
